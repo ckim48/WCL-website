@@ -489,7 +489,7 @@ section {
   .navbar .dropdown ul a:hover,
   .navbar .dropdown ul .active:hover,
   .navbar .dropdown ul li:hover>a {
-    color: var(--color-primary);
+    color: var(--color-secondary);
   }
 
   .navbar .dropdown:hover>ul {
@@ -1840,6 +1840,7 @@ background-color: var(--color-primary);
 .est{
   color: #6EA4C1;
 }
+
 /*.theme-heading{
     color: var(--color-secondary);
       text-shadow: -4px 0 white, 0 4px white, 4px 0 white, 0 -4px white;
