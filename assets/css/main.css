@@ -1848,3 +1848,15 @@ background-color: var(--color-primary);
 .footer .credits a {
   color: #fff;
 }
+.img-profile{
+  border-radius: 10%;
+}
+.im-box{
+  width: 350px;
+  height: 300px;
+  overflow: hidden;
+}
+.mt-11{
+  margin-top: 100px;
+}
+}
